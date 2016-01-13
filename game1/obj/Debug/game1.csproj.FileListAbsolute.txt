@@ -1,0 +1,28 @@
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\bin\Debug\game1.exe.config
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\bin\Debug\game1.exe
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\bin\Debug\game1.pdb
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\game1.csprojResolveAssemblyReference.cache
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\MainWindow.baml
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\MainWindow.g.cs
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\App.g.cs
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\game1_MarkupCompile.cache
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\game1.g.resources
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\game1.Properties.Resources.resources
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\game1.csproj.GenerateResource.Cache
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\game1.exe
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\game1.pdb
+c:\users\worawee\documents\visual studio 2013\Projects\game1\game1\obj\Debug\game1_Content.g.cs
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\bin\Debug\game1.exe.config
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\game1.exe
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\game1.pdb
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\bin\Debug\game1.exe
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\bin\Debug\game1.pdb
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\game1.csprojResolveAssemblyReference.cache
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\MainWindow.baml
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\MainWindow.g.cs
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\App.g.cs
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\game1_Content.g.cs
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\game1_MarkupCompile.cache
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\game1.g.resources
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\game1.Properties.Resources.resources
+C:\Users\Worawee\Desktop\Dropbox\1st work term\Thomson Reuters\C#\WhackAMole_jan2015\game1\obj\Debug\game1.csproj.GenerateResource.Cache
